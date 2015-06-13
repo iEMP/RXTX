@@ -1,5 +1,6 @@
 # RXTX
 rxtx-2.1-7r2 64bit for solaris
+
 /*-------------------------------------------------------------------------
 |   rxtx is a native interface to serial ports in java.
 |   Copyright 1997-2004 by Trent Jarvi taj@www.linux.org.uk.
